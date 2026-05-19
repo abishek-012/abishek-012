@@ -1,6 +1,3 @@
-## Hi there 👋
-
-# 💫 About Me:
 Hi there 👋 I'm Abishek Kandan<br><br>🎓 4th Year UG student<br>💻 Passionate about Software Development & Problem Solving<br>🌱 Currently learning DSA with Python and exploring fullstack and AI/ML<br>🚀 Interested in Web Development, AI, and Tech Projects<br>📚 Love building projects and learning new technologies<br><br>"Code. Learn. Build. Repeat."
 
 
